@@ -1,4 +1,21 @@
+#home {
+    background-color: rgb(41, 41, 41);
+}
+
+#about {
+    background-color: rgb(48, 48, 48);
+}
+
+#projects {
+    background-color: rgb(41, 41, 41);
+}
+
+#accounts {
+    background-color: rgb(48, 48, 48);
+}
+
 a {
     color: #bae6ff;
     text-decoration: none;
 }
+
