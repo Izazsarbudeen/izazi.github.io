@@ -20,8 +20,12 @@ body {
     background-color: rgb(48, 48, 48);
 }
 
+.logo {
+    max-width: 300px;
+    height: auto;
+}
+
 a {
     color: #bae6ff;
     text-decoration: none;
 }
-
