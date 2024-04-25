@@ -32,7 +32,7 @@ This project is a personal website created using HTML, CSS, and Bootstrap. It se
 #### Recommended way
 
 1. Fork this repository.
-2. Edit the `script.js` file to add your own informations.
+2. Edit the `config.js` file to add your own informations.
 3. Go to the settings of the forked repository.
 4. Change repository name to `<your-username>.github.io`.
 5. Enable GitHub Pages in the GitHub Pages section.
