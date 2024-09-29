@@ -21,7 +21,7 @@ You can contact me via my <a href="#accounts">accounts</a>.`;
 const projects = {
     "Personal Website": {
         link: "/",
-        icon: "https://github.com/FayasNoushad.png",
+        icon: "https://github.com/izaz.png",
         description: "My personal website",
         bg: "white"
     },
