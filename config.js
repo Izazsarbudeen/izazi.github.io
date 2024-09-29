@@ -1,6 +1,6 @@
 const firstName = "Izazsarbudeen";
 const lastName = ""; // not required
-const iconImg = "https://telegra.ph/file/1c0b33092862f726dbffb.jpg";
+const iconImg = "https://avatars.githubusercontent.com/u/166972698?v=4";
 const place = "Pennadam, cuddalore,Tamilnadu, India";
 const description = "Open Source Contributor | Python Programmer | Eletrical Engineer";
 
