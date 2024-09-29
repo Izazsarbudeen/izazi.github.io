@@ -1,19 +1,19 @@
-const firstName = "Fayas";
+const firstName = "Izazsarbudeen";
 const lastName = ""; // not required
-const iconImg = "https://github.com/FayasNoushad.png";
-const place = "Palakkad, Kerala, India";
-const description = "Open Source Contributor | Python Programmer | Student";
+const iconImg = "https://telegra.ph/file/1c0b33092862f726dbffb.jpg";
+const place = "Pennadam, cuddalore,Tamilnadu, India";
+const description = "Open Source Contributor | Python Programmer | Eletrical Engineer";
 
 const about = `
-I am <strong>Fayas</strong>.
+I am <strong>Sarbudeen</strong>.
 I am an Indian Open-Source Developer.
-I'm living in <a href="https://en.m.wikipedia.org/wiki/Palakkad_district">Palakkad, Kerala,
+I'm living in <a href="https://en.m.wikipedia.org/wiki/Cuddalore">Cuddalore, Tamil Nadu,
     India</a>.
-I am a BCA (Bachelor of Computer Application) student.<br /><br />
+I am A Eletrical Engineer (Bachelor of Eletrical And Electronics Engineering) Engineer.<br /><br />
 I created some public open-source projects like Python Packages, Telegram bots' source codes
 and other repositories.
 You can checkout my projects <a href="#projects">here</a>.
-My open-source projects available on <a href="https://github.com/FayasNoushad">GitHub</a>.
+My open-source projects available on <a href="https://github.com/Izazsarbudeen">GitHub</a>.
 Please use and share my projects.
 <br /><br />
 You can contact me via my <a href="#accounts">accounts</a>.`;
