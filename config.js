@@ -21,7 +21,7 @@ You can contact me via my <a href="#accounts">accounts</a>.`;
 const projects = {
     "Personal Website": {
         link: "/",
-        icon: "https://telegra.ph/file/3434217344bac7583aaf4.jpg",
+        icon: "https://github.com/Izazsarbudeen/izazsarbudeen.github.io/blob/main/Screenshot_2024-09-28-02-54-52-763_com.instagram.android.jpg",
         description: "My personal website",
         bg: "white"
     },
