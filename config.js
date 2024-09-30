@@ -32,7 +32,7 @@ const projects = {
         bg: "white"
     },
     "Python Packages": {
-        link: "https://pypi.org/user/FayasNoushad/",
+        link: "https://pypi.org/user/izazsarbudeen/",
         icon: "https://pypi.org/static/images/logo-small.8998e9d1.svg",
         description: "You can use my python packages",
         bg: "#3775A9"
