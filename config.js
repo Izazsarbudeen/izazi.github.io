@@ -21,12 +21,12 @@ You can contact me via my <a href="#accounts">accounts</a>.`;
 const projects = {
     "Personal Website": {
         link: "/",
-        icon: "https://github.com/Izazsarbudeen/izazsarbudeen.github.io/blob/main/Screenshot_2024-09-28-02-54-52-763_com.instagram.android.jpg",
+        icon: "",
         description: "My personal website",
         bg: "white"
     },
     "GitHub Repositories": {
-        link: "https://github.com/FayasNoushad?tab=repositories",
+        link: "https://github.com/izazsarbudeen?tab=repositories",
         icon: "https://cdn.simpleicons.org/github/#181717",
         description: "You can check and use my open-source repositories",
         bg: "white"
@@ -41,19 +41,19 @@ const projects = {
 
 const accounts = {
     "Telegram": {
-        link: "https://telegram.me/FayasNoushad",
+        link: "https://telegram.me/sarbudeen786",
         icon: "https://cdn.simpleicons.org/telegram/#26A5E4",
         description: "You can send messages in telegram directly",
         bg: "white"
     },
     "GitHub": {
-        link: "https://github.com/FayasNoushad",
+        link: "https://github.com/izazsarbudeen",
         icon: "https://cdn.simpleicons.org/github/#181717",
         description: "You can check and follow my github profile",
         bg: "white"
     },
     "Instagram": {
-        link: "https://instagram.com/FayasNoushad",
+        link: "https://instagram.com/izazkhan_786_",
         icon: "https://cdn.simpleicons.org/instagram/#E4405F",
         description: "You can direct message me in instagram.",
         bg: "white"
