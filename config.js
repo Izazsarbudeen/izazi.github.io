@@ -27,7 +27,7 @@ const projects = {
     },
     "GitHub Repositories": {
         link: "https://github.com/izazsarbudeen?tab=repositories",
-        icon: "https://cdn.simpleicons.org/github/#181717",
+        icon: "https://www.flaticon.com/free-icon/github_5968896",
         description: "You can check and use my open-source repositories",
         bg: "white"
     },
