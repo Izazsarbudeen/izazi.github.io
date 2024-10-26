@@ -20,8 +20,8 @@ You can contact me via my <a href="#accounts">accounts</a>.`;
 
 const projects = {
     "Personal Website": {
-        link: "https://linktr.ee/izazsarbudeen",
-        icon: "https://icons8.com",
+        link: "",
+        icon: "",
         description: "My personal website",
         bg: "white"
     },
