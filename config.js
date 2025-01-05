@@ -33,7 +33,7 @@ const projects = {
     },
     "Python Packages": {
         link: "https://izazsarbudeen.github.io/",
-        icon: "https://pypi.org/static/images/logo-small.8998e9d1.svg",
+        icon: "https://www.pngwing.com/en/free-png-zllyc",
         description: "You can use my python packages",
         bg: "#3775A9"
     }
