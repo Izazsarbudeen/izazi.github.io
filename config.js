@@ -27,6 +27,7 @@ const projects = {
     },
     "GitHub Repositories": {
         link: "https://github.com/izazsarbudeen?tab=repositories",
+        <i class="fa-brands fa-github"></i>, 
         icon: "https://github.com/Izazsarbudeen/izazsarbudeen.github.io/blob/main/images%20(42).jpeg",
         description: "You can check and use my open-source repositories",
         bg: "black"
