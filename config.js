@@ -27,7 +27,7 @@ const projects = {
     },
     "GitHub Repositories": {
         link: "https://github.com/izazsarbudeen?tab=repositories",
-        href: "https://github.com/Izazsarbudeen/izazsarbudeen.github.io/blob/main/images%20(42).jpeg",
+        href:"https://github.com/Izazsarbudeen/izazsarbudeen.github.io/blob/main/images%20(42).jpeg",
         description: "You can check and use my open-source repositories",
         bg: "black"
     },
@@ -44,7 +44,7 @@ const accounts = {
         link: "https://telegram.me/sarbudeen786",
         icon: "https://cdn.simpleicons.org/telegram/#26A5E4",
         description: "You can send messages in telegram directly",
-        bg: "white"
+        bg: "Blue"
     },
     "GitHub": {
         link: "https://github.com/izazsarbudeen",
