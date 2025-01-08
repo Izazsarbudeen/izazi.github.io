@@ -1,0 +1,31 @@
+@import url("https://fonts.googleapis.com/css?family=Ubuntu");
+
+body {
+    font-family: "Ubuntu";
+}
+
+#home {
+    background-color: rgb(41, 221, 218);
+}
+
+#about {
+    background-color: rgb(48, 48, 48);
+}
+
+#projects {
+    background-color: rgb(41, 41, 41);
+}
+
+#accounts {
+    background-color: rgb(48, 48, 48);
+}
+
+.logo {
+    max-width: 300px;
+    height: auto;
+}
+
+a {
+    color: #bae6ff;
+    text-decoration: none;
+}
