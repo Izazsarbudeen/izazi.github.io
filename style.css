@@ -1,0 +1,31 @@
+@import url("https://fonts.googleapis.com/css?family=Ubuntu");
+
+body {
+    font-family: "Ubuntu";
+}
+
+#home {
+    background-color: rgb(255, 165, 0); /* Orange */
+}
+
+#about {
+    background-color: rgb(34, 34, 34); /* Dark Gray */
+}
+
+#projects {
+    background-color: rgb(70, 130, 180); /* Steel Blue */
+}
+
+#accounts {
+    background-color: rgb(50, 50, 50); /* Slightly lighter dark gray */
+}
+
+.logo {
+    max-width: 300px;
+    height: auto;
+}
+
+a {
+    color: #bae6ff;
+    text-decoration: none;
+}
