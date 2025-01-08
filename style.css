@@ -1,0 +1,107 @@
+@import url("https://fonts.googleapis.com/css?family=Ubuntu|Dancing+Script|Lobster");
+
+body {
+    font-family: "Ubuntu", sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f0f0f0; /* Light background for the entire page */
+}
+
+/* Home Section */
+#home {
+    background-color: rgb(255, 87, 34); /* Vibrant Orange */
+    color: #fff;
+    padding: 50px 20px;
+    text-align: center;
+}
+
+#home h1 {
+    font-size: 3.5em;
+    font-family: "Dancing Script", cursive;
+    letter-spacing: 3px;
+    text-transform: uppercase;
+    text-shadow: 2px 2px 10px rgba(0, 0, 0, 0.6); /* Adding a subtle shadow */
+    margin-bottom: 20px;
+}
+
+/* About Section */
+#about {
+    background-color: rgb(63, 81, 181); /* Deep Blue */
+    color: #fff;
+    padding: 50px 20px;
+    text-align: center;
+}
+
+#about h2 {
+    font-size: 3em;
+    font-family: "Lobster", cursive;
+    letter-spacing: 2px;
+    text-shadow: 2px 2px 5px rgba(0, 0, 0, 0.3); /* Soft shadow for a stylish effect */
+}
+
+/* Projects Section */
+#projects {
+    background-color: rgb(70, 130, 180); /* Steel Blue */
+    color: #fff;
+    padding: 50px 20px;
+    text-align: center;
+}
+
+#projects h2 {
+    font-size: 2.8em;
+    font-family: "Lobster", cursive;
+    letter-spacing: 2px;
+    text-shadow: 2px 2px 5px rgba(0, 0, 0, 0.3);
+}
+
+/* Accounts Section */
+#accounts {
+    background-color: rgb(156, 39, 176); /* Vibrant Purple */
+    color: #fff;
+    padding: 50px 20px;
+    text-align: center;
+}
+
+#accounts h2 {
+    font-size: 2.8em;
+    font-family: "Lobster", cursive;
+    letter-spacing: 2px;
+    text-shadow: 2px 2px 5px rgba(0, 0, 0, 0.3);
+}
+
+/* Logo Styling */
+.logo {
+    max-width: 300px;
+    height: auto;
+    display: block;
+    margin: 0 auto;
+}
+
+/* Link Styling */
+a {
+    color: #bae6ff;
+    text-decoration: none;
+    font-weight: bold;
+    font-size: 1.2em;
+}
+
+a:hover {
+    color: #ffeb3b; /* Yellow on hover */
+    text-decoration: underline wavy;
+    font-size: 1.3em; /* Slightly bigger text on hover */
+}
+
+/* Stylish Paragraphs */
+p {
+    font-size: 1.2em;
+    line-height: 1.8;
+    margin-top: 20px;
+    font-family: "Ubuntu", sans-serif;
+    letter-spacing: 1px;
+    text-shadow: 1px 1px 5px rgba(0, 0, 0, 0.2); /* Subtle shadow for readability */
+}
+
+/* Adding transitions to make hover effects smoother */
+a, h1, h2, p {
+    transition: all 0.3s ease;
+}
