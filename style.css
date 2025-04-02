@@ -1,24 +1,74 @@
 @import url("https://fonts.googleapis.com/css?family=Ubuntu");
+
+/* General Styling */
 body {
-    font-family: Arial, sans-serif;
+    font-family: 'Poppins', sans-serif;
     text-align: center;
-    background: #f0f0f0;
+    background: linear-gradient(to right, #1e3c72, #2a5298);
+    color: white;
     padding: 50px;
+    margin: 0;
+    transition: background 0.5s, color 0.5s;
 }
 
-canvas {
-    background-color: #fff;
-    border-radius: 10px;
-    box-shadow: 0px 4px 15px rgba(0, 0, 0, 0.1);
+/* Light Mode Styles */
+body.light-mode {
+    background: linear-gradient(to right, #ffffff, #e6e6e6);
+    color: black;
 }
 
-.stats-container {
-    margin: 20px;
-    font-size: 20px;
+/* Theme Toggle Button */
+.theme-toggle {
+    position: absolute;
+    top: 20px;
+    right: 20px;
 }
 
-body {
-    font-family: "Ubuntu";
+#themeButton {
+    background: white;
+    border: none;
+    padding: 10px 20px;
+    font-size: 16px;
+    cursor: pointer;
+    border-radius: 20px;
+    transition: background 0.3s, color 0.3s;
+}
+
+.light-mode #themeButton {
+    background: black;
+    color: white;
+}
+
+/* Container Styling */
+.container {
+    max-width: 600px;
+    margin: auto;
+    background: rgba(255, 255, 255, 0.1);
+    padding: 20px;
+    border-radius: 15px;
+    box-shadow: 0 10px 30px rgba(0, 0, 0, 0.3);
+    backdrop-filter: blur(10px);
+}
+
+/* Chart Styling */
+.chart-container {
+    position: relative;
+    width: 100%;
+    height: 400px;
+    margin-top: 20px;
+}
+
+/* Hover Effect */
+canvas:hover {
+    transform: scale(1.05);
+    transition: transform 0.3s ease-in-out;
+}
+
+/* Mobile Responsive */
+@media (max-width: 768px) {
+    .container {
+        width: 90%;
+    }
 }
 
 #home {
