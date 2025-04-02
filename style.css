@@ -1,4 +1,21 @@
 @import url("https://fonts.googleapis.com/css?family=Ubuntu");
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+    background: #f0f0f0;
+    padding: 50px;
+}
+
+canvas {
+    background-color: #fff;
+    border-radius: 10px;
+    box-shadow: 0px 4px 15px rgba(0, 0, 0, 0.1);
+}
+
+.stats-container {
+    margin: 20px;
+    font-size: 20px;
+}
 
 body {
     font-family: "Ubuntu";
